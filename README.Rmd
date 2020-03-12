@@ -1,0 +1,13 @@
+---
+title: "Reproducible Data Analysis Framework Exercise"
+author: "Mette Christensen"
+date: "12 3 2020"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Description 
+Adding content to Github using git (exercise) using BLOSUM.62 data
