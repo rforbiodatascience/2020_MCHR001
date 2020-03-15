@@ -1,0 +1,11 @@
+---
+title: "BLOSUM62 project"
+output: git_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
